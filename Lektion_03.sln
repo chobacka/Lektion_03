@@ -7,6 +7,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning 01 Udda eller Jämn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning 02 Dividera med 7 och 5", "Övning 02 Dividera med 7 och 5\Övning 02 Dividera med 7 och 5.csproj", "{0A53D851-4D13-4798-B54C-2D8934183426}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning 03 Beräkna rektangels area", "Övning 03 Beräkna rektangels area\Övning 03 Beräkna rektangels area.csproj", "{52D35181-3CF3-4940-BB97-A292201F0016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning 04 Är tredje värdesiffran 7", "Övning 04 Är tredje värdesiffran 7\Övning 04 Är tredje värdesiffran 7.csproj", "{A54B0A61-1BBE-4FE1-A90F-6D28FCF2C1F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning 05 Är en punkt inuti en cirkel", "Övning 05 Är en punkt inuti en cirkel\Övning 05 Är en punkt inuti en cirkel.csproj", "{1AA58AEE-54F8-4F4C-8932-3248958D6967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning 06 Primtal", "Övning 06 Primtal\Övning 06 Primtal.csproj", "{A815A8C9-9956-43C3-8E02-C41066DC888C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning 07 Beräkna parallelltrapetsens area", "Övning 07 Beräkna parallelltrapetsens area\Övning 07 Beräkna parallelltrapetsens area.csproj", "{8AED9939-BBAE-4D2A-B7B7-0C78E05EF541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning 08 punkt inuti en cirkel och utanför en rektangel", "Övning 08 punkt inuti en cirkel och utanför en rektangel\Övning 08 punkt inuti en cirkel och utanför en rektangel.csproj", "{53C2E6CF-12A4-4B09-ADD1-96B831CC935C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +33,30 @@ Global
 		{0A53D851-4D13-4798-B54C-2D8934183426}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A53D851-4D13-4798-B54C-2D8934183426}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A53D851-4D13-4798-B54C-2D8934183426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D35181-3CF3-4940-BB97-A292201F0016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D35181-3CF3-4940-BB97-A292201F0016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D35181-3CF3-4940-BB97-A292201F0016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D35181-3CF3-4940-BB97-A292201F0016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54B0A61-1BBE-4FE1-A90F-6D28FCF2C1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54B0A61-1BBE-4FE1-A90F-6D28FCF2C1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54B0A61-1BBE-4FE1-A90F-6D28FCF2C1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54B0A61-1BBE-4FE1-A90F-6D28FCF2C1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA58AEE-54F8-4F4C-8932-3248958D6967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA58AEE-54F8-4F4C-8932-3248958D6967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA58AEE-54F8-4F4C-8932-3248958D6967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA58AEE-54F8-4F4C-8932-3248958D6967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A815A8C9-9956-43C3-8E02-C41066DC888C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A815A8C9-9956-43C3-8E02-C41066DC888C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A815A8C9-9956-43C3-8E02-C41066DC888C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A815A8C9-9956-43C3-8E02-C41066DC888C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AED9939-BBAE-4D2A-B7B7-0C78E05EF541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AED9939-BBAE-4D2A-B7B7-0C78E05EF541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AED9939-BBAE-4D2A-B7B7-0C78E05EF541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AED9939-BBAE-4D2A-B7B7-0C78E05EF541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C2E6CF-12A4-4B09-ADD1-96B831CC935C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C2E6CF-12A4-4B09-ADD1-96B831CC935C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C2E6CF-12A4-4B09-ADD1-96B831CC935C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C2E6CF-12A4-4B09-ADD1-96B831CC935C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
