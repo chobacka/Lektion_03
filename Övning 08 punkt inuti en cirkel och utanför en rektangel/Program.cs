@@ -12,7 +12,7 @@ if (InsideCircle(point) && !InsideRectangele(point))
 {
     Console.WriteLine($"Punkten ({point.x}, {point.y}) ligger innuti cirkeln och utanför rektangeln");
 }
-else if (!InsideCircle(point) || InsideRectangele(point))
+else if (!InsideCircle(point) && InsideRectangele(point))
 {
     Console.WriteLine($"Punkten ({point.x}, {point.y}) ligger utanför cirkeln och innuti rektangeln");
 }
@@ -20,9 +20,9 @@ else if (!InsideCircle(point) && !InsideRectangele(point))
 {
     Console.WriteLine($"Punkten ({point.x}, {point.y}) ligger utanför cirkeln och utanför rektangeln");
 }
-else if (InsideCircle(point) || InsideRectangele(point))
+else if (InsideCircle(point) && InsideRectangele(point))
 {
-    Console.WriteLine($"Punkten ({point.x}, {point.y}) ligger både innuti cirkeln och innuti rektangeln");
+    Console.WriteLine($"Punkten ({point.x}, {point.y}) ligger innuti cirkeln och innuti rektangeln");
 }
 
 
